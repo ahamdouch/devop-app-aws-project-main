@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet DevOps Django sur AWS avec Terraform et Jenkins
 
 Ce projet est une démonstration de l'application des principes DevOps pour déployer une application web Django sur AWS en utilisant Kubernetes (EKS), Terraform et Jenkins.
@@ -138,3 +139,6 @@ NOTE : Le <ROLE_ARN> provient de la ressource déployée dans Terraform et peut 
 ## Conclusion
 
 Ce projet est un excellent exemple de la manière dont on peut utiliser divers outils et services pour déployer une application Django de manière robuste et évolutive sur AWS. Il démontre également comment Jenkins peut être utilisé pour automatiser le processus de déploiement, ce qui peut grandement simplifier le processus de mise en production d'une application.
+=======
+# devop-app-aws-project-main
+>>>>>>> 6dd4e0a522b7740b0bc1b3630dbc4b8014994bcd
